@@ -1,0 +1,17 @@
+# Project exclude paths
+/105-cloud-1203-common/target/
+/105-cloud-1203-eureka1/target/
+/105-cloud-1203-eureka2/target/
+/105-cloud-1203-feign/target/
+/105-cloud-1203-provider/target/
+/105-cloud-1203-ribbon/target/
+/105-cloud-1203-zuul/target/
+/105-cloud-config/target/
+/105-cloud-config2/target/
+/service-turbine/target/
+
+.idea
+*.iml
+*.ids
+*.ipr
+*.iws
